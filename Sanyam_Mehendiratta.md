@@ -1,0 +1,6 @@
+# Git-Collab
+
+## DETAILS
+-NAME :*SANYAM MEHENDIRTTA*
+-BATCH :*CS-BIGDATA*
+-YEAR : *2ND*
